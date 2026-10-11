@@ -1,0 +1,6 @@
+{
+  "name": "Global Success English - Primary Speaking & Pronunciation",
+  "description": "Child-friendly English speaking, pronunciation, and formative AI feedback for Vietnamese primary school pupils (Grades 1 to 5) following the Global Success curriculum.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
